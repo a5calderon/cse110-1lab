@@ -8,9 +8,9 @@ Hi! My name is Andrea Calderon. I am a 3rd year CS student. I'm super excited to
 I was gifted a turntable for Christmas. Since then, I've been ~~participating in an expensive hobby~~ collecting vinyls.Images:
 
 
-<img src="" height="400"/>
+<img src="https://raw.githubusercontent.com/a5calderon/cse110-1lab/refs/heads/main/FullSizeRender.jpeg" height="400"/>
 
-<img src="" height="400"/>
+<img src="https://github.com/a5calderon/cse110-1lab/blob/main/IMG_4901.jpeg?raw=true" height="400"/>
 
 **Gaming on Nintendo 3ds**\
 My current game rotation includes Animal Crossing New Leaf, Build a Bear, and Super Mario.
@@ -29,7 +29,7 @@ I'm currently reading _Little Women_. Here is a quote:
 
 **My favorite classes:**
 1. CSE100
-2. CSE167 ([test copy 4.png]())
+2. CSE167 ([test copy 4.png](https://github.com/a5calderon/cse110-1lab/blob/main/test%20copy%204.png?raw=true))
 3. CSE8A, where ``` print("Hello World")``` was exciting
 
 **Jobs**\
