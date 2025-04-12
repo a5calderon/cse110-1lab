@@ -39,6 +39,6 @@ I used to work at 64 degrees; however, now I work at Starbucks.
 I will be in a lab this summer, through a program called STARS. This is their [homepage](https://grad.ucsd.edu/oar2/oar2office/programs/undergraduate-programs/stars/index.html). 
 
 ## Task list
-- [x] CSE110 Lab1\
-- [ ] SIO10 reading\
+- [x] CSE110 Lab1
+- [ ] SIO10 reading
 - [ ] Math183 reading
